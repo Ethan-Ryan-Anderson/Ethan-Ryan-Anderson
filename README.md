@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ethan-Ryan-Anderson
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on literally anything
 - 📫 How to reach me Email me @Era444221@gmail.com
 
