@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Ethan-Ryan-Anderson
-- 👀 I’m interested in Everything
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on literally anything
-- 📫 How to reach me Email me @Era444221@gmail.com
+Motocross guy, trying to create devices to allow people to enjoy the sport with more safety
 
 <!---
 Ethan-Ryan-Anderson/Ethan-Ryan-Anderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
